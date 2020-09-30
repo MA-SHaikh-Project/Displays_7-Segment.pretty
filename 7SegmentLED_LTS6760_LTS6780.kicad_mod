@@ -1,3 +1,4 @@
+/*Clear the Display after the Output*/
 (module 7SegmentLED_LTS6760_LTS6780 (layer F.Cu)
   (at 0 0)
   (fp_text reference REF** (at -9.5 -5.8) (layer F.SilkS)
